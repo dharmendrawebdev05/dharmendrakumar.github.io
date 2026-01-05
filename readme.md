@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me  
 
-Senior Software Engineer with **10+ years of experience** in PHP-based web development.  
+Senior Software Engineer with **12+ years of experience** in PHP-based web development.  
 Strong expertise in **Laravel, MySQL, RESTful APIs**, and scalable application design.  
 Experienced in handling **government and enterprise-level projects**, performance optimization, and production server issues.
 
