@@ -4,7 +4,7 @@
 📍 Lucknow, Uttar Pradesh, India  
 📱 +917236907277  
 ✉️ dharmendra.webdev05@gmail.com
-🌐 [LinkedIn](www.linkedin.com/in/dharmendrawebdev05)  
+🌐 www.linkedin.com/in/dharmendrawebdev05
 
 ---
 
